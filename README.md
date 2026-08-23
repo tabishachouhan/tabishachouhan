@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./hero-banner.svg" alt="Tabisha Chouhan — AI Developer & Full-Stack Engineer" width="100%"/>
 
 <br/>
 
