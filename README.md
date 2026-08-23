@@ -83,18 +83,6 @@ Responsive itinerary-management and destination-exploration app with reusable Re
 </td>
 <td width="50%" valign="top">
 
-**✨ Your next project**
-*Space reserved*
-
-Pin your 4th-best repo here — recruiters read left-to-right, top-to-bottom, so lead with your strongest work.
-
-`Add tech stack here`
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 🛠️ Technical Toolkit
 
