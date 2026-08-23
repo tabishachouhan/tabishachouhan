@@ -267,14 +267,7 @@ Pin your 4th-best repo here — recruiters read left-to-right, top-to-bottom, so
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tabishachouhan&show_icons=true&theme=dark&hide_border=true&bg_color=1a0f2e&title_color=c4b5fd&icon_color=a78bfa" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabishachouhan&layout=compact&theme=dark&hide_border=true&bg_color=1a0f2e&title_color=c4b5fd" width="48%"/>
-
-</div>
 
 <br/>
 
