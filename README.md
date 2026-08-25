@@ -67,6 +67,16 @@ I enjoy taking an idea from **research → implementation → integration → de
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,express,postgres,supabase,mongodb,git,github,vscode,vercel,render&perline=9" />
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🩺 TriageMate
@@ -165,6 +175,9 @@ A responsive travel-planning application focused on itinerary management and des
 ![Render](https://img.shields.io/badge/Render-2d1b4e?style=flat-square\&logo=render\&logoColor=white)
 
 ---
+
+---
+
 
 ## 🏆 Certifications & Programs
 
