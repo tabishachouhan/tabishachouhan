@@ -9,7 +9,7 @@
 ### AI Developer · Full-Stack Engineer · Data Science Undergraduate
 
 <p>
-Building full-stack AI products by combining <strong>LLM integration, prompt engineering, structured data processing, and modern web development</strong>.
+Building full-stack AI products by combining <strong>LLM integration, structured data processing, and modern web development</strong>.
 </p>
 
 <p>
