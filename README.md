@@ -4,7 +4,6 @@
 
 <br/>
 
-# Tabisha Chouhan
 
 ### AI Developer · Full-Stack Engineer · Data Science Undergraduate
 
